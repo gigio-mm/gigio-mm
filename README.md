@@ -1,4 +1,4 @@
-# # Welcome, I'm Gigio. ☕
+## Welcome, I'm Gigio. ☕
 
 **`Software Engineer | FullStack Developer`**
 
