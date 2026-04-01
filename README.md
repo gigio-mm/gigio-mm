@@ -56,7 +56,7 @@ An interactive anatomical atlas for dentistry, solving the "static textbook" pro
 ## 🤝 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/gigio-moura" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
